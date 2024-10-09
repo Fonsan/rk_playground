@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 namespace ConsoleApp
 {
     internal class Stefans_class
-    {
-        public Stefans_class() { 
+    {        
+        public Stefans_class() {
             //Hej
+            Console.WriteLine("Niklas var här också!");
         }
     }
 }
